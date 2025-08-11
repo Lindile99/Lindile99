@@ -1,16 +1,24 @@
 ## Hi there 👋, I'm Lindile Nkosi
 
-<!--
-**Lindile99/Lindile99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Bachelor of Science
+ Majors: Chemistry
+          Biochemistry & Cell Biology
+          
+📊 Data Science Bootcamp Graduate
+(Stellenbosch University x HyperionDev, 2035)
 
-Here are some ideas to get you started:
+📍Based in Johannesburg, South Africa | Open to internships & junior roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------
+
+##💼 Skills
+●**Languages:** Python
+●**Libraries:** Pandas, Numpy,Seaborn, Matplotlib, scikit-learn
+●**Tools:** Excel, Jupyter Notebook, Github, Tableau
+●**Others:** Data cleaning, EDA, Classification, Visualisation
+
+---------------------------------------
+
+##🧠Projects
+###🏠 [House Price Model Prediction]
+(
