@@ -24,4 +24,12 @@
 (https://github.com/Lindile99/house-price-prediction-model)
 
 Built a linear regression model using living area and garage size to predoct sales prices.
+📌 EDA, Model Training
 
+---------------------------------------
+
+## 🔗 Connect with me
+📧 Email: lindile086@gmail.com
+🔗 Github: 
+
+*💼 Eager to make a career change into an entry-level/junior Data Science role*
