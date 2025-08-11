@@ -13,8 +13,11 @@
 
 ## 💼 Skills
 ●**Languages:** Python
+
 ●**Libraries:** Pandas, Numpy,Seaborn, Matplotlib, scikit-learn
+
 ●**Tools:** Excel, Jupyter Notebook, Github, Tableau
+
 ●**Others:** Data cleaning, EDA, Classification, Visualisation
 
 ---------------------------------------
