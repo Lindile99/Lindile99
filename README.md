@@ -5,7 +5,7 @@
           Biochemistry & Cell Biology
           
 📊 Data Science Bootcamp Graduate
-(Stellenbosch University x HyperionDev, 2035)
+(Stellenbosch University x HyperionDev, 2025)
 
 📍Based in Johannesburg, South Africa | Open to internships & junior roles
 
