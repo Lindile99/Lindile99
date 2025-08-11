@@ -32,4 +32,4 @@ Built a linear regression model using living area and garage size to predict sal
 📧 Email: lindile086@gmail.com
 🔗 Github:[https://github.com/Lindile99]
 
-*💼 Eager to make a career change into an entry-level/junior Data Science role*
+*💼 Eager to make a career change into roles where my data science skills can be applied*
