@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Lindile Nkosi
 
 🎓Bachelor of Science
- Majors: Chemistry
-          Biochemistry & Cell Biology
+
+ Majors: Chemistry                      
+         Biochemistry & Cell Biology
           
 📊 Data Science Bootcamp Graduate
 (Stellenbosch University x HyperionDev, 2025)
