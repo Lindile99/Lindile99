@@ -11,7 +11,7 @@
 
 ---------------------------------------
 
-##💼 Skills
+## 💼 Skills
 ●**Languages:** Python
 ●**Libraries:** Pandas, Numpy,Seaborn, Matplotlib, scikit-learn
 ●**Tools:** Excel, Jupyter Notebook, Github, Tableau
@@ -19,8 +19,9 @@
 
 ---------------------------------------
 
-##🧠Projects
-###🏠 [House Price Model Prediction]
+## 🧠Projects
+### 🏠 [House Price Model Prediction]
 (https://github.com/Lindile99/house-price-prediction-model)
+
 Built a linear regression model using living area and garage size to predoct sales prices.
 
