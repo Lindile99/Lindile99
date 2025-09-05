@@ -17,7 +17,7 @@
 
 ●**Libraries:** Pandas, Numpy,Seaborn, Matplotlib, scikit-learn
 
-●**Tools:** Excel, Jupyter Notebook, Github, Tableau
+●**Tools:** Excel, Jupyter Notebook, Github, SQL(MySQL)
 
 ●**Others:** Data cleaning, EDA, Classification, Visualisation
 
