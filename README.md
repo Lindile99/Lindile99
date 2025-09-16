@@ -48,8 +48,11 @@ I enjoy turning raw data into meaningful insights using **SQL, Python, and visua
 ---------------------------------------
 
 ## 🔗 Connect with me
+
 🔗 Linkedin: https://www.linkedin.com/in/lindile-nkosi-17322a228
+
 📧 Email: lindile086@gmail.com
+
 🔗 Github:[https://github.com/Lindile99]
 
 *💼 Eager to make a career change into roles where my data science skills can be applied*
