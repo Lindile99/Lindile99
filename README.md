@@ -39,7 +39,8 @@ I enjoy turning raw data into meaningful insights using **SQL, Python, and visua
 (https://github.com/Lindile99/house-price-prediction-model)
 📌 EDA, Model Training
 
-### 💊 [Pharmaceutical Drug Sales Analysis](https://github.com/Lindile99/Pharmaceutical-Drug-Sales-Analysis)
+### 💊 [Pharmaceutical Drug Sales Analysis]
+(https://github.com/Lindile99/Pharmaceutical-Drug-Sales-Analysis)
 📌 SQL, Python, Forecasting
 
 ---------------------------------------
