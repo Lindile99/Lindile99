@@ -49,7 +49,8 @@ I enjoy turning raw data into meaningful insights using **SQL, Python, and visua
 ### 🚢 [Titanic Survival Prediction]
 (https://github.com/Lindile99/titanic-survival-prediction)
 
-📌Python
+📌 Python, Decision Tree Classification
+
 ---------------------------------------
 
 ## 🔗 Connect with me
