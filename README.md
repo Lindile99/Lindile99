@@ -40,7 +40,8 @@ I enjoy turning raw data into meaningful insights using **SQL, Python, and visua
 
 📌 EDA, Model Training
 
-### 🩺 [Health Insurance Claim Fraud Detection](https://github.com/Lindile99/Pharmaceutical-Drug-Sales-Analysis)
+### 🩺 [Health Insurance Claim Fraud Detection]
+(https://github.com/Lindile99/Pharmaceutical-Drug-Sales-Analysis)
 
 📌 Python, EDA, Random Forest Classifier, Model Evaluation
 
